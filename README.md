@@ -3,6 +3,7 @@
 This repository contains a folder for each scientific peer-reviewed article that explains software components implemented in [CLIMADA Python](https://github.com/CLIMADA-project/climada_python).
 
 ## Published papers (since 2019):
+Rana, A., Qinhan, Z., Detken, A., Whalley, K., Castet, C. 2022: Strengthening climate-resilient development and transformation in Viet Nam. Climatic Change 170, 4. https://doi.org/10.1007/s10584-021-03290-y
 
 Geiger, T., Gütschow, J., Bresch, D. N., Emanuel, K., and Frieler, K., 2021: Double benefit of limiting global warming for tropical cyclone exposure. Nat. Clim. Chang., https://doi.org/10.1038/s41558-021-01157-9 
 
